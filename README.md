@@ -7,9 +7,9 @@
 
 <p float="left">
   <a href="https://dipvachhani.tech/">
-    <img src="https://github-readme-stats.aemiej.vercel.app/api?username=DIp15739&show_icons=true&hide_border=true&theme=dark&private=true" height="205"/>
+    <img src="https://github-readme-stats.aemiej.vercel.app/api?username=DIp15739&show_icons=true&hide_border=true&theme=dark&private=true" height="150"/>
   </a>
   <a href="https://dipvachhani.tech/">
-    <img src="https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=DIp15739&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true" height="205"/>
+    <img src="https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=DIp15739&layout=compact&theme=dark&show_icons=true&hide_border=true&private=true" height="150"/>
   </a>
 </p>
